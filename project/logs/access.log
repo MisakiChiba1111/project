@@ -2,3 +2,7 @@
 172.19.0.1 - - [31/Dec/2019:21:59:02 +0900] "GET /favicon.ico HTTP/1.1" 404 27 "http://127.0.0.1:10080/index.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15" "-"
 172.19.0.1 - - [31/Dec/2019:21:59:15 +0900] "GET /phpinfo.php HTTP/1.1" 200 88654 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15" "-"
 172.19.0.1 - - [31/Dec/2019:21:59:16 +0900] "GET /favicon.ico HTTP/1.1" 404 27 "http://127.0.0.1:10080/phpinfo.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15" "-"
+172.19.0.1 - - [31/Dec/2019:22:10:48 +0900] "GET /index.html HTTP/1.1" 404 1564 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15" "-"
+172.19.0.1 - - [31/Dec/2019:22:10:58 +0900] "GET /index.html HTTP/1.1" 499 0 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15" "-"
+172.19.0.1 - - [31/Dec/2019:22:11:00 +0900] "GET / HTTP/1.1" 200 2438 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15" "-"
+172.19.0.1 - - [31/Dec/2019:22:11:00 +0900] "GET /favicon.ico HTTP/1.1" 200 0 "http://127.0.0.1:10080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15" "-"
